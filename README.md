@@ -1,2 +1,2 @@
 # OSG_QT_CMAKE
-this is a demo with osg+qt+cmake
+一个demo 调通qt5.15 + cmake + osg3.6.5
